@@ -1,4 +1,4 @@
-module github.com/kedacore/keda
+module github.com/kedacore/keda/v2
 
 go 1.15
 
