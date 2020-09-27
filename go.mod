@@ -1,4 +1,4 @@
-module github.com/zzxwill/keda/v2
+module github.com/zzxwill/keda
 
 go 1.15
 
